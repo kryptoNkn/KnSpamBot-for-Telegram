@@ -16,6 +16,3 @@ chat_ids = [""]  # Enter the ID of the user you want to send a message to
 message = "" # Enter the text you want to send
 num_messages = 5  # number of messages sent
 send_message(chat_ids, message, num_messages)
-
-single_chat_id = "" # Enter the ID of the user you want to send a message to
-send_message(single_chat_id, message, num_messages)
