@@ -33,6 +33,7 @@ import requests
 
 * In order for the bot to be able to send messages, the user needs to launch it.
 * You need to know the ID of the user you want to send messages to (you can find it by forwarding any message from this user to the bot @getmyid_bot).
+* You won't be able to do anything if the user has hidden their user ID.
 
 # Conclusion
 
